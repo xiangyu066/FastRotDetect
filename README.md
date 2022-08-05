@@ -6,4 +6,5 @@
 <img src="https://github.com/xiangyu066/FastRotDetect/blob/main/Docs/FastRotDetect.png" width="50%">\
 \
 **[Example]:**\
-
+- Example 1: [Bead assay](https://github.com/xiangyu066/FastRotDetect/blob/main/Docs/)
+- Example 2: [Tethered cell](https://github.com/xiangyu066/FastRotDetect/blob/main/Docs/)
