@@ -9,7 +9,7 @@ However, using this pixel-by-pixel FFT can quickly calculate the frequency of op
 <img src="https://github.com/xiangyu066/FastRotDetect/blob/main/Docs/1.5um_20210330_Pos2_T_0-1-demo.gif" width="10%">
 <img src="https://github.com/xiangyu066/FastRotDetect/blob/main/Docs/1.5um_20210330_Pos2_T_0-1-demo.png" width="10%">\
 \
-So, we can directly apply this method to wild-field.\
+So, we can directly apply this method to wild-field, and the analysis time of a time-series images containing 2048 (w) x 512 (h) x 204 (f) can be shortened within a few seconds..\
 \
 <img src="https://github.com/xiangyu066/FastRotDetect/blob/main/Docs/P7-T_0-demo.gif" width="100%">\
 \
