@@ -1,4 +1,4 @@
-In general, a center position of a rotating bead is fitted by a 2 dimensional gaussian function, then apply to every time-series images.\
+Typically, the center positions of the spinning beads are fitted by a two-dimensional Gaussian function, which is then applied to each time-series image.\
 \
 <img src="https://github.com/xiangyu066/FastRotDetect/blob/main/Docs/P7-T_0-demo_fitting.png" width="100%">\
 \
